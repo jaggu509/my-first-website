@@ -75,29 +75,29 @@ body >h2{
     color:gray;
     font-size: 2em;
     left:100px;
-    top:1400px;
+    top:1450px;
 }
 .sponsor1{
     position: absolute;
     left:150px;
-    top:1800px;    
+    top:1790px;    
 }
 .sponsors{
     position: absolute;
     color:gray;
     font-size: 2em;
     left:638px;
-    top:1725px;
+    top:1715px;
 }
 .sponsor2{
     position: absolute;
     right:100px;
-    top:1575px;    
+    top:1565px;    
 }
 .book_now{
     position: absolute;
     left:275px;
-    top:1450px; 
+    top:1460px; 
     opacity: 70%;  
 
 }
