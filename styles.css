@@ -1,0 +1,103 @@
+body{
+    background-color: black;
+} 
+body >h2{
+    color:blue;
+}
+.logoname{
+    position: absolute;
+    color:blue;
+    left:60px;
+    top:14px;
+}
+.welcome{
+    position: absolute;
+    left: 700px;
+    top: 250px;
+    color:gray;
+    font-size: 4em;
+}
+.musicalworld{
+    position: absolute;
+    color:blue;
+    font-size: 5em;
+    left: 800px;
+    top: 350px
+}
+.skull{
+    position: absolute;
+    left:250px;
+    top:75px;
+}
+.href_links >a{
+    position: relative;
+    left:1000px;
+    padding-right: 1em;
+    color:blue;
+}
+/* .background{
+    position:relative;
+    top:630px;
+    left:0px;
+    opacity: 10%;
+} */
+.worlds_biggest_musical_feast{
+    position: absolute;
+    color:gray;
+    font-size: 4em;
+    left:300px;
+    top:700px;
+}
+/* .musicbar{
+    position: absolute;
+    top:900px;
+    left:350px;
+    opacity: 60%;
+} */
+.guiter{
+    position: absolute;
+    right:100px;
+    top:825px;
+}
+.piano{
+    position: absolute;
+    left:100px;
+    top:825px;   
+}
+.drums{    
+    position: absolute;
+    left:575px;
+    top:875px; 
+    opacity: 50%;  
+}
+.want_to_feel_music{
+    position: absolute;
+    color:gray;
+    font-size: 2em;
+    left:100px;
+    top:1400px;
+}
+.sponsor1{
+    position: absolute;
+    left:150px;
+    top:1800px;    
+}
+.sponsors{
+    position: absolute;
+    color:gray;
+    font-size: 2em;
+    left:638px;
+    top:1725px;
+}
+.sponsor2{
+    position: absolute;
+    right:100px;
+    top:1575px;    
+}
+.book_now{
+    position: absolute;
+    left:275px;
+    top:1450px; 
+    opacity: 70%;  
+
+}
